@@ -1,0 +1,501 @@
+CostumerID,Reason
+1,Expired license
+2,Criminal record
+3,Expired license
+4,Criminal record
+5,No license
+6,Bad record
+7,Didn't return car
+8,Not old enough
+9,Bad record
+10,Criminal record
+11,No license
+12,Not old enough
+13,Wanted by the police
+14,Expired license
+15,Caused the company damage
+16,Caused the company damage
+17,Criminal record
+18,Couldn't pay
+19,Not old enough
+20,Expired license
+21,Expired license
+22,Expired license
+23,Wanted by the police
+24,Wanted by the police
+25,Expired license
+26,Couldn't pay
+27,Not old enough
+28,Bad record
+29,No license
+30,Wanted by the police
+31,Criminal record
+32,Criminal record
+33,No license
+34,Didn't return car
+35,Expired license
+36,Expired license
+37,Bad record
+38,Caused the company damage
+39,Wanted by the police
+40,Bad record
+41,Wanted by the police
+42,Bad record
+43,Couldn't pay
+44,Wanted by the police
+45,Didn't return car
+46,No license
+47,No license
+48,Wanted by the police
+49,Criminal record
+50,Didn't return car
+51,Didn't return car
+52,Couldn't pay
+53,Expired license
+54,Not old enough
+55,Expired license
+56,Expired license
+57,Couldn't pay
+58,Criminal record
+59,Criminal record
+60,Didn't return car
+61,Didn't return car
+62,Didn't return car
+63,Bad record
+64,Caused the company damage
+65,Caused the company damage
+66,Couldn't pay
+67,Wanted by the police
+68,Not old enough
+69,Expired license
+70,Not old enough
+71,Not old enough
+72,Couldn't pay
+73,Couldn't pay
+74,Didn't return car
+75,Couldn't pay
+76,Couldn't pay
+77,Didn't return car
+78,Bad record
+79,Not old enough
+80,Caused the company damage
+81,Expired license
+82,Couldn't pay
+83,Not old enough
+84,Expired license
+85,Wanted by the police
+86,Didn't return car
+87,Expired license
+88,No license
+89,Not old enough
+90,Not old enough
+91,Couldn't pay
+92,Wanted by the police
+93,Couldn't pay
+94,Criminal record
+95,Caused the company damage
+96,Caused the company damage
+97,Bad record
+98,Expired license
+99,Criminal record
+100,Criminal record
+101,Criminal record
+102,Bad record
+103,Wanted by the police
+104,Not old enough
+105,Didn't return car
+106,Caused the company damage
+107,Couldn't pay
+108,Caused the company damage
+109,Expired license
+110,Caused the company damage
+111,Expired license
+112,Bad record
+113,Couldn't pay
+114,Couldn't pay
+115,Expired license
+116,Criminal record
+117,Not old enough
+118,No license
+119,Didn't return car
+120,Expired license
+121,Criminal record
+122,Couldn't pay
+123,Couldn't pay
+124,Criminal record
+125,Couldn't pay
+126,Bad record
+127,Didn't return car
+128,Caused the company damage
+129,Wanted by the police
+130,Bad record
+131,Caused the company damage
+132,Wanted by the police
+133,No license
+134,Didn't return car
+135,Bad record
+136,Expired license
+137,No license
+138,Not old enough
+139,Didn't return car
+140,Not old enough
+141,Wanted by the police
+142,Didn't return car
+143,Couldn't pay
+144,Expired license
+145,Didn't return car
+146,Criminal record
+147,Wanted by the police
+148,Caused the company damage
+149,Wanted by the police
+150,Couldn't pay
+151,Didn't return car
+152,Criminal record
+153,Couldn't pay
+154,Expired license
+155,Criminal record
+156,Expired license
+157,Criminal record
+158,Wanted by the police
+159,Caused the company damage
+160,No license
+161,Expired license
+162,Bad record
+163,Couldn't pay
+164,Expired license
+165,Bad record
+166,Expired license
+167,Wanted by the police
+168,Caused the company damage
+169,Not old enough
+170,Not old enough
+171,Wanted by the police
+172,Wanted by the police
+173,Expired license
+174,Couldn't pay
+175,Caused the company damage
+176,Criminal record
+177,Caused the company damage
+178,Couldn't pay
+179,Bad record
+180,Bad record
+181,Didn't return car
+182,Caused the company damage
+183,Didn't return car
+184,Bad record
+185,Caused the company damage
+186,No license
+187,No license
+188,No license
+189,Didn't return car
+190,Caused the company damage
+191,Criminal record
+192,Expired license
+193,Criminal record
+194,Criminal record
+195,Wanted by the police
+196,Bad record
+197,Caused the company damage
+198,Not old enough
+199,Expired license
+200,Didn't return car
+201,No license
+202,Not old enough
+203,Couldn't pay
+204,Criminal record
+205,Bad record
+206,Wanted by the police
+207,No license
+208,Couldn't pay
+209,Couldn't pay
+210,No license
+211,Expired license
+212,Wanted by the police
+213,Criminal record
+214,No license
+215,Wanted by the police
+216,Didn't return car
+217,Caused the company damage
+218,Expired license
+219,Expired license
+220,Wanted by the police
+221,Couldn't pay
+222,Expired license
+223,Criminal record
+224,Didn't return car
+225,Caused the company damage
+226,Caused the company damage
+227,Expired license
+228,Expired license
+229,Didn't return car
+230,Caused the company damage
+231,Criminal record
+232,Expired license
+233,Wanted by the police
+234,No license
+235,Bad record
+236,Caused the company damage
+237,No license
+238,Bad record
+239,Wanted by the police
+240,Criminal record
+241,Didn't return car
+242,Expired license
+243,Couldn't pay
+244,Not old enough
+245,Expired license
+246,Caused the company damage
+247,Caused the company damage
+248,No license
+249,Criminal record
+250,Bad record
+251,Not old enough
+252,Expired license
+253,Didn't return car
+254,Caused the company damage
+255,Didn't return car
+256,Didn't return car
+257,Not old enough
+258,Not old enough
+259,Wanted by the police
+260,Caused the company damage
+261,Criminal record
+262,Not old enough
+263,Didn't return car
+264,Criminal record
+265,Couldn't pay
+266,Didn't return car
+267,Expired license
+268,Bad record
+269,Expired license
+270,No license
+271,Didn't return car
+272,Bad record
+273,Bad record
+274,No license
+275,Criminal record
+276,Bad record
+277,Not old enough
+278,Not old enough
+279,No license
+280,Bad record
+281,Expired license
+282,Couldn't pay
+283,Wanted by the police
+284,Wanted by the police
+285,Bad record
+286,Didn't return car
+287,Couldn't pay
+288,Caused the company damage
+289,Couldn't pay
+290,Couldn't pay
+291,Not old enough
+292,Caused the company damage
+293,Caused the company damage
+294,Couldn't pay
+295,Expired license
+296,Expired license
+297,Wanted by the police
+298,Expired license
+299,Criminal record
+300,Caused the company damage
+301,Not old enough
+302,Caused the company damage
+303,Not old enough
+304,Caused the company damage
+305,Didn't return car
+306,Bad record
+307,Wanted by the police
+308,Caused the company damage
+309,Criminal record
+310,Not old enough
+311,Didn't return car
+312,Wanted by the police
+313,Couldn't pay
+314,Couldn't pay
+315,Not old enough
+316,Couldn't pay
+317,Couldn't pay
+318,Couldn't pay
+319,Not old enough
+320,Didn't return car
+321,Caused the company damage
+322,Caused the company damage
+323,No license
+324,No license
+325,Didn't return car
+326,Bad record
+327,Wanted by the police
+328,Caused the company damage
+329,No license
+330,Not old enough
+331,No license
+332,Didn't return car
+333,Caused the company damage
+334,Didn't return car
+335,Couldn't pay
+336,Wanted by the police
+337,Criminal record
+338,Bad record
+339,Couldn't pay
+340,Wanted by the police
+341,No license
+342,Expired license
+343,Not old enough
+344,Caused the company damage
+345,Caused the company damage
+346,Didn't return car
+347,Not old enough
+348,No license
+349,Bad record
+350,Criminal record
+351,Didn't return car
+352,Caused the company damage
+353,Didn't return car
+354,Expired license
+355,Expired license
+356,Not old enough
+357,Not old enough
+358,Couldn't pay
+359,Didn't return car
+360,Wanted by the police
+361,Not old enough
+362,Not old enough
+363,Caused the company damage
+364,Criminal record
+365,Couldn't pay
+366,Couldn't pay
+367,Couldn't pay
+368,Expired license
+369,Didn't return car
+370,Caused the company damage
+371,Expired license
+372,Not old enough
+373,Expired license
+374,Criminal record
+375,Expired license
+376,Wanted by the police
+377,Couldn't pay
+378,Not old enough
+379,Caused the company damage
+380,Caused the company damage
+381,Couldn't pay
+382,Expired license
+383,Didn't return car
+384,Expired license
+385,Criminal record
+386,Didn't return car
+387,Expired license
+388,No license
+389,Couldn't pay
+390,Expired license
+391,Wanted by the police
+392,Criminal record
+393,Wanted by the police
+394,Not old enough
+395,Bad record
+396,Didn't return car
+397,Not old enough
+398,Not old enough
+399,Criminal record
+400,Caused the company damage
+401,Wanted by the police
+402,Bad record
+403,Expired license
+404,Criminal record
+405,Expired license
+406,Wanted by the police
+407,No license
+408,No license
+409,Didn't return car
+410,Didn't return car
+411,Didn't return car
+412,No license
+413,Didn't return car
+414,Criminal record
+415,Wanted by the police
+416,Didn't return car
+417,Couldn't pay
+418,No license
+419,Bad record
+420,Criminal record
+421,Expired license
+422,No license
+423,Wanted by the police
+424,Wanted by the police
+425,Couldn't pay
+426,Criminal record
+427,Couldn't pay
+428,Criminal record
+429,Expired license
+430,Bad record
+431,Couldn't pay
+432,Caused the company damage
+433,Bad record
+434,Caused the company damage
+435,Expired license
+436,Bad record
+437,No license
+438,Didn't return car
+439,Expired license
+440,Caused the company damage
+441,Wanted by the police
+442,Didn't return car
+443,Criminal record
+444,Not old enough
+445,Expired license
+446,No license
+447,Expired license
+448,Caused the company damage
+449,Expired license
+450,Didn't return car
+451,Bad record
+452,Didn't return car
+453,Didn't return car
+454,Bad record
+455,Couldn't pay
+456,Didn't return car
+457,No license
+458,Not old enough
+459,Caused the company damage
+460,Wanted by the police
+461,No license
+462,Caused the company damage
+463,Criminal record
+464,No license
+465,Expired license
+466,Didn't return car
+467,Not old enough
+468,Bad record
+469,Couldn't pay
+470,Caused the company damage
+471,Bad record
+472,Criminal record
+473,Not old enough
+474,Not old enough
+475,Couldn't pay
+476,Not old enough
+477,Expired license
+478,Didn't return car
+479,No license
+480,Caused the company damage
+481,Wanted by the police
+482,Criminal record
+483,Caused the company damage
+484,Not old enough
+485,Criminal record
+486,Expired license
+487,Wanted by the police
+488,No license
+489,Didn't return car
+490,Not old enough
+491,Expired license
+492,Bad record
+493,Not old enough
+494,Expired license
+495,Didn't return car
+496,Caused the company damage
+497,Couldn't pay
+498,Caused the company damage
+499,Couldn't pay
+500,Criminal record
