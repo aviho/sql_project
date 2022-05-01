@@ -19,8 +19,8 @@ union
 select * from ASASON.BLACKLIST
 
 
-# get id, c.FIRST_NAME, c.LAST_NAME, COSTUMERSERVICE.reason#
+# get id,  FIRST_NAME,  LAST_NAME,  reason#
 select t1.*,ASASON.COSTUMERSERVICE.reason from (select c.id, c.FIRST_NAME, c.LAST_NAME
-from COSTUMERS c, ASASON.BLACKLIST bl
+from gruenspe.costumers c, ASASON.BLACKLIST bl
  where c.id = bl.costumerid ) t1
- LEFT JOIN  ASASON.COSTUMERSERVICE on ASASON.COSTUMERSERVICE.id = t1.id
+ LEFT JOIN  ASASON.COSTUMERSERVICE on COSTUMERSERVICE.costumerid = t1.id
