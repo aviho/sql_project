@@ -1,0 +1,1001 @@
+CostumerID,Reason
+1,No license
+2,Expired license
+3,Couldn't pay
+4,Couldn't pay
+5,Couldn't pay
+6,Wanted by the police
+7,Expired license
+8,Couldn't pay
+9,Caused the company damage
+10,Bad record
+11,No insurance
+12,Criminal record
+13,Caused the company damage
+14,No license
+15,No insurance
+16,Expired license
+17,Couldn't pay
+18,Criminal record
+19,Criminal record
+20,Expired license
+21,Wanted by the police
+22,Caused the company damage
+23,No insurance
+24,No insurance
+25,Caused the company damage
+26,Couldn't pay
+27,Expired license
+28,Bad record
+29,No license
+30,Criminal record
+31,Criminal record
+32,No license
+33,Caused the company damage
+34,No license
+35,Expired license
+36,No insurance
+37,No insurance
+38,Criminal record
+39,Couldn't pay
+40,No license
+41,No insurance
+42,No license
+43,Expired license
+44,Caused the company damage
+45,Criminal record
+46,Criminal record
+47,No license
+48,No insurance
+49,No license
+50,Caused the company damage
+51,Couldn't pay
+52,Expired license
+53,Caused the company damage
+54,No license
+55,Couldn't pay
+56,No insurance
+57,Expired license
+58,Bad record
+59,Couldn't pay
+60,Bad record
+61,Caused the company damage
+62,Expired license
+63,Criminal record
+64,Couldn't pay
+65,Couldn't pay
+66,No insurance
+67,Caused the company damage
+68,Bad record
+69,Couldn't pay
+70,Caused the company damage
+71,No insurance
+72,Bad record
+73,Bad record
+74,Wanted by the police
+75,Couldn't pay
+76,Wanted by the police
+77,Bad record
+78,No license
+79,Expired license
+80,Wanted by the police
+81,Couldn't pay
+82,Bad record
+83,Criminal record
+84,Bad record
+85,Caused the company damage
+86,Criminal record
+87,Bad record
+88,Couldn't pay
+89,Expired license
+90,Criminal record
+91,Wanted by the police
+92,Expired license
+93,Wanted by the police
+94,Couldn't pay
+95,Criminal record
+96,Criminal record
+97,Caused the company damage
+98,Expired license
+99,No insurance
+100,Criminal record
+101,Expired license
+102,Criminal record
+103,Criminal record
+104,Bad record
+105,Wanted by the police
+106,Bad record
+107,Wanted by the police
+108,No insurance
+109,Criminal record
+110,Couldn't pay
+111,No license
+112,Wanted by the police
+113,No insurance
+114,Caused the company damage
+115,No insurance
+116,Caused the company damage
+117,Caused the company damage
+118,Bad record
+119,Caused the company damage
+120,Couldn't pay
+121,Expired license
+122,No license
+123,Caused the company damage
+124,Couldn't pay
+125,Criminal record
+126,Expired license
+127,No license
+128,No license
+129,Wanted by the police
+130,Expired license
+131,No insurance
+132,Wanted by the police
+133,Expired license
+134,Wanted by the police
+135,Wanted by the police
+136,Wanted by the police
+137,Caused the company damage
+138,Criminal record
+139,Caused the company damage
+140,Caused the company damage
+141,Expired license
+142,Caused the company damage
+143,No insurance
+144,No insurance
+145,Couldn't pay
+146,Couldn't pay
+147,Wanted by the police
+148,Wanted by the police
+149,Bad record
+150,Caused the company damage
+151,Criminal record
+152,No insurance
+153,Couldn't pay
+154,Criminal record
+155,Wanted by the police
+156,Criminal record
+157,Couldn't pay
+158,No license
+159,No insurance
+160,Bad record
+161,No license
+162,Criminal record
+163,No insurance
+164,Criminal record
+165,No insurance
+166,Criminal record
+167,Wanted by the police
+168,Criminal record
+169,Wanted by the police
+170,Bad record
+171,Bad record
+172,Bad record
+173,Criminal record
+174,No license
+175,No insurance
+176,No license
+177,Criminal record
+178,No license
+179,Wanted by the police
+180,Caused the company damage
+181,No insurance
+182,No license
+183,Criminal record
+184,No insurance
+185,Bad record
+186,Expired license
+187,Wanted by the police
+188,Wanted by the police
+189,No insurance
+190,Caused the company damage
+191,Wanted by the police
+192,Caused the company damage
+193,Caused the company damage
+194,Expired license
+195,Wanted by the police
+196,No insurance
+197,No insurance
+198,Couldn't pay
+199,Bad record
+200,Expired license
+201,No insurance
+202,Bad record
+203,Expired license
+204,Wanted by the police
+205,Wanted by the police
+206,No license
+207,Bad record
+208,No insurance
+209,No insurance
+210,Expired license
+211,Criminal record
+212,Expired license
+213,Wanted by the police
+214,Expired license
+215,Caused the company damage
+216,Couldn't pay
+217,Expired license
+218,Caused the company damage
+219,Criminal record
+220,No license
+221,Expired license
+222,Criminal record
+223,No license
+224,Wanted by the police
+225,Bad record
+226,No insurance
+227,Criminal record
+228,Couldn't pay
+229,Couldn't pay
+230,No license
+231,Expired license
+232,No license
+233,Caused the company damage
+234,Couldn't pay
+235,Caused the company damage
+236,Criminal record
+237,No insurance
+238,Wanted by the police
+239,Couldn't pay
+240,No license
+241,Couldn't pay
+242,No license
+243,Expired license
+244,Criminal record
+245,No insurance
+246,Wanted by the police
+247,No license
+248,Couldn't pay
+249,No license
+250,Wanted by the police
+251,Couldn't pay
+252,No license
+253,Caused the company damage
+254,Wanted by the police
+255,Bad record
+256,No insurance
+257,Wanted by the police
+258,Criminal record
+259,Criminal record
+260,Criminal record
+261,No insurance
+262,No license
+263,Criminal record
+264,No insurance
+265,No license
+266,Expired license
+267,Couldn't pay
+268,No license
+269,Couldn't pay
+270,Couldn't pay
+271,Criminal record
+272,Expired license
+273,No license
+274,Expired license
+275,Expired license
+276,No insurance
+277,Bad record
+278,Expired license
+279,Wanted by the police
+280,No license
+281,No insurance
+282,Bad record
+283,Expired license
+284,Caused the company damage
+285,Expired license
+286,Caused the company damage
+287,Caused the company damage
+288,Caused the company damage
+289,Criminal record
+290,Criminal record
+291,Wanted by the police
+292,Bad record
+293,Criminal record
+294,Criminal record
+295,Couldn't pay
+296,No license
+297,No license
+298,Bad record
+299,No license
+300,Expired license
+301,No license
+302,No license
+303,No insurance
+304,No insurance
+305,Criminal record
+306,Criminal record
+307,No insurance
+308,No license
+309,No license
+310,No license
+311,Bad record
+312,Couldn't pay
+313,Expired license
+314,Expired license
+315,Caused the company damage
+316,No license
+317,No license
+318,Expired license
+319,Couldn't pay
+320,No license
+321,No insurance
+322,No license
+323,Criminal record
+324,Criminal record
+325,Bad record
+326,Expired license
+327,Wanted by the police
+328,No license
+329,Caused the company damage
+330,No insurance
+331,No license
+332,Wanted by the police
+333,Couldn't pay
+334,Couldn't pay
+335,Bad record
+336,Wanted by the police
+337,Wanted by the police
+338,Couldn't pay
+339,Caused the company damage
+340,Criminal record
+341,Caused the company damage
+342,Caused the company damage
+343,Caused the company damage
+344,No insurance
+345,Wanted by the police
+346,Criminal record
+347,No license
+348,Expired license
+349,Expired license
+350,Criminal record
+351,Criminal record
+352,Wanted by the police
+353,No insurance
+354,No insurance
+355,Criminal record
+356,Bad record
+357,Bad record
+358,Couldn't pay
+359,Bad record
+360,No license
+361,Couldn't pay
+362,Wanted by the police
+363,Bad record
+364,Criminal record
+365,Bad record
+366,Criminal record
+367,No insurance
+368,Couldn't pay
+369,No insurance
+370,Criminal record
+371,Expired license
+372,Criminal record
+373,No license
+374,Expired license
+375,Caused the company damage
+376,No insurance
+377,Expired license
+378,Expired license
+379,Criminal record
+380,Bad record
+381,No insurance
+382,Couldn't pay
+383,Couldn't pay
+384,No license
+385,Criminal record
+386,Couldn't pay
+387,Bad record
+388,Bad record
+389,Expired license
+390,Caused the company damage
+391,Wanted by the police
+392,Couldn't pay
+393,No license
+394,No insurance
+395,Criminal record
+396,Expired license
+397,Expired license
+398,No insurance
+399,Expired license
+400,Caused the company damage
+401,Couldn't pay
+402,Couldn't pay
+403,Expired license
+404,Wanted by the police
+405,Caused the company damage
+406,No insurance
+407,Caused the company damage
+408,Expired license
+409,No license
+410,No license
+411,No license
+412,Caused the company damage
+413,Couldn't pay
+414,Expired license
+415,Criminal record
+416,Bad record
+417,No license
+418,Couldn't pay
+419,Criminal record
+420,Bad record
+421,Bad record
+422,Caused the company damage
+423,Expired license
+424,Bad record
+425,Criminal record
+426,Criminal record
+427,Criminal record
+428,Caused the company damage
+429,No insurance
+430,Expired license
+431,Expired license
+432,No insurance
+433,Bad record
+434,Expired license
+435,Couldn't pay
+436,Expired license
+437,Couldn't pay
+438,Expired license
+439,Criminal record
+440,Bad record
+441,Expired license
+442,Caused the company damage
+443,Criminal record
+444,Criminal record
+445,Caused the company damage
+446,Expired license
+447,Caused the company damage
+448,Couldn't pay
+449,Bad record
+450,Wanted by the police
+451,Expired license
+452,No license
+453,Bad record
+454,No license
+455,Expired license
+456,Bad record
+457,Caused the company damage
+458,No insurance
+459,Criminal record
+460,Wanted by the police
+461,Caused the company damage
+462,Wanted by the police
+463,Wanted by the police
+464,No insurance
+465,No license
+466,Expired license
+467,Criminal record
+468,Expired license
+469,Caused the company damage
+470,No insurance
+471,No license
+472,No license
+473,Wanted by the police
+474,No insurance
+475,Bad record
+476,Couldn't pay
+477,No license
+478,Criminal record
+479,Caused the company damage
+480,Wanted by the police
+481,Caused the company damage
+482,Couldn't pay
+483,Bad record
+484,Criminal record
+485,No license
+486,Wanted by the police
+487,Caused the company damage
+488,Caused the company damage
+489,Couldn't pay
+490,Caused the company damage
+491,Caused the company damage
+492,No license
+493,No license
+494,Wanted by the police
+495,Criminal record
+496,Bad record
+497,Caused the company damage
+498,Couldn't pay
+499,No insurance
+500,No insurance
+501,Expired license
+502,Expired license
+503,Criminal record
+504,No license
+505,Expired license
+506,Caused the company damage
+507,Criminal record
+508,Bad record
+509,Expired license
+510,Bad record
+511,No license
+512,Expired license
+513,No insurance
+514,No insurance
+515,Wanted by the police
+516,No insurance
+517,Caused the company damage
+518,No license
+519,Criminal record
+520,Wanted by the police
+521,No insurance
+522,No license
+523,Bad record
+524,Bad record
+525,Criminal record
+526,Couldn't pay
+527,No insurance
+528,Criminal record
+529,Expired license
+530,Caused the company damage
+531,Caused the company damage
+532,Criminal record
+533,Criminal record
+534,No insurance
+535,No license
+536,Wanted by the police
+537,Criminal record
+538,Bad record
+539,Caused the company damage
+540,Bad record
+541,Couldn't pay
+542,Expired license
+543,Caused the company damage
+544,Caused the company damage
+545,Bad record
+546,Criminal record
+547,No license
+548,Criminal record
+549,Criminal record
+550,Expired license
+551,Criminal record
+552,Couldn't pay
+553,No insurance
+554,No insurance
+555,No license
+556,Criminal record
+557,Caused the company damage
+558,Wanted by the police
+559,No insurance
+560,Wanted by the police
+561,Criminal record
+562,Expired license
+563,Bad record
+564,Couldn't pay
+565,Expired license
+566,Caused the company damage
+567,No license
+568,No license
+569,Caused the company damage
+570,Caused the company damage
+571,No insurance
+572,Couldn't pay
+573,Caused the company damage
+574,No insurance
+575,No license
+576,Criminal record
+577,No license
+578,Bad record
+579,Caused the company damage
+580,No insurance
+581,No insurance
+582,Bad record
+583,Couldn't pay
+584,Expired license
+585,Bad record
+586,Couldn't pay
+587,Wanted by the police
+588,No license
+589,Bad record
+590,No insurance
+591,Caused the company damage
+592,Expired license
+593,Expired license
+594,Caused the company damage
+595,Couldn't pay
+596,Caused the company damage
+597,No license
+598,Bad record
+599,Expired license
+600,Wanted by the police
+601,Wanted by the police
+602,Couldn't pay
+603,Expired license
+604,No license
+605,Wanted by the police
+606,Wanted by the police
+607,Expired license
+608,Criminal record
+609,Couldn't pay
+610,Expired license
+611,No insurance
+612,Bad record
+613,Couldn't pay
+614,Criminal record
+615,Couldn't pay
+616,Bad record
+617,Couldn't pay
+618,Wanted by the police
+619,Bad record
+620,Caused the company damage
+621,Bad record
+622,Wanted by the police
+623,No license
+624,Couldn't pay
+625,Caused the company damage
+626,Expired license
+627,Criminal record
+628,Wanted by the police
+629,Criminal record
+630,Wanted by the police
+631,Criminal record
+632,Bad record
+633,Wanted by the police
+634,Criminal record
+635,Expired license
+636,Caused the company damage
+637,Criminal record
+638,Caused the company damage
+639,Criminal record
+640,Criminal record
+641,No insurance
+642,Wanted by the police
+643,Couldn't pay
+644,Caused the company damage
+645,Expired license
+646,Caused the company damage
+647,Expired license
+648,Criminal record
+649,No license
+650,Wanted by the police
+651,No license
+652,Wanted by the police
+653,No license
+654,Wanted by the police
+655,Expired license
+656,Wanted by the police
+657,Couldn't pay
+658,No insurance
+659,Expired license
+660,Criminal record
+661,Expired license
+662,No insurance
+663,No license
+664,Couldn't pay
+665,Expired license
+666,Criminal record
+667,Expired license
+668,Wanted by the police
+669,Bad record
+670,Expired license
+671,Criminal record
+672,Bad record
+673,Expired license
+674,Caused the company damage
+675,Couldn't pay
+676,Couldn't pay
+677,Couldn't pay
+678,No insurance
+679,No license
+680,No insurance
+681,Caused the company damage
+682,No insurance
+683,Caused the company damage
+684,Bad record
+685,Couldn't pay
+686,Expired license
+687,No license
+688,Criminal record
+689,No insurance
+690,No insurance
+691,Expired license
+692,Wanted by the police
+693,Caused the company damage
+694,No license
+695,Caused the company damage
+696,Criminal record
+697,Caused the company damage
+698,No license
+699,No insurance
+700,Couldn't pay
+701,Wanted by the police
+702,Criminal record
+703,Criminal record
+704,No insurance
+705,Couldn't pay
+706,No insurance
+707,Bad record
+708,Expired license
+709,No license
+710,No license
+711,No insurance
+712,Criminal record
+713,Couldn't pay
+714,Wanted by the police
+715,Caused the company damage
+716,Expired license
+717,No license
+718,Expired license
+719,Expired license
+720,Criminal record
+721,Wanted by the police
+722,No license
+723,No insurance
+724,Couldn't pay
+725,Couldn't pay
+726,No insurance
+727,No license
+728,No insurance
+729,No insurance
+730,Bad record
+731,No license
+732,Couldn't pay
+733,Criminal record
+734,Caused the company damage
+735,Wanted by the police
+736,Caused the company damage
+737,No license
+738,No license
+739,Couldn't pay
+740,Bad record
+741,Wanted by the police
+742,Wanted by the police
+743,Expired license
+744,Couldn't pay
+745,No insurance
+746,Expired license
+747,Expired license
+748,Criminal record
+749,Expired license
+750,No license
+751,Wanted by the police
+752,Bad record
+753,Caused the company damage
+754,Bad record
+755,Expired license
+756,Wanted by the police
+757,Expired license
+758,Bad record
+759,Bad record
+760,Expired license
+761,Caused the company damage
+762,Expired license
+763,Criminal record
+764,Expired license
+765,No insurance
+766,Wanted by the police
+767,Caused the company damage
+768,No license
+769,Wanted by the police
+770,Criminal record
+771,Bad record
+772,Couldn't pay
+773,Wanted by the police
+774,Couldn't pay
+775,Caused the company damage
+776,Wanted by the police
+777,Bad record
+778,Couldn't pay
+779,Bad record
+780,Couldn't pay
+781,Wanted by the police
+782,No license
+783,Bad record
+784,Criminal record
+785,No insurance
+786,Bad record
+787,Bad record
+788,No license
+789,Couldn't pay
+790,No license
+791,No insurance
+792,Caused the company damage
+793,Expired license
+794,Caused the company damage
+795,Couldn't pay
+796,Wanted by the police
+797,Couldn't pay
+798,No license
+799,No insurance
+800,Wanted by the police
+801,Couldn't pay
+802,Wanted by the police
+803,Wanted by the police
+804,Couldn't pay
+805,Caused the company damage
+806,Couldn't pay
+807,No license
+808,Expired license
+809,Criminal record
+810,Expired license
+811,No license
+812,Couldn't pay
+813,Bad record
+814,Wanted by the police
+815,Couldn't pay
+816,Expired license
+817,Couldn't pay
+818,No insurance
+819,Expired license
+820,Couldn't pay
+821,No insurance
+822,No insurance
+823,Criminal record
+824,Couldn't pay
+825,Expired license
+826,Wanted by the police
+827,Couldn't pay
+828,Criminal record
+829,No license
+830,Criminal record
+831,Couldn't pay
+832,Couldn't pay
+833,Wanted by the police
+834,Caused the company damage
+835,Criminal record
+836,Caused the company damage
+837,Criminal record
+838,Wanted by the police
+839,Couldn't pay
+840,Caused the company damage
+841,No insurance
+842,Couldn't pay
+843,Expired license
+844,Couldn't pay
+845,Criminal record
+846,Caused the company damage
+847,Criminal record
+848,Bad record
+849,Bad record
+850,Couldn't pay
+851,No insurance
+852,Couldn't pay
+853,No insurance
+854,Bad record
+855,Wanted by the police
+856,Wanted by the police
+857,No insurance
+858,Caused the company damage
+859,No license
+860,Couldn't pay
+861,No insurance
+862,Bad record
+863,Criminal record
+864,Couldn't pay
+865,Bad record
+866,Expired license
+867,Bad record
+868,Criminal record
+869,Expired license
+870,Expired license
+871,Bad record
+872,No license
+873,Criminal record
+874,Bad record
+875,No license
+876,Caused the company damage
+877,Expired license
+878,Bad record
+879,Couldn't pay
+880,Bad record
+881,No license
+882,Wanted by the police
+883,Bad record
+884,Couldn't pay
+885,Wanted by the police
+886,No license
+887,Wanted by the police
+888,No license
+889,Caused the company damage
+890,No license
+891,Couldn't pay
+892,No license
+893,Bad record
+894,Wanted by the police
+895,Wanted by the police
+896,No insurance
+897,No license
+898,Expired license
+899,No license
+900,Caused the company damage
+901,No insurance
+902,No insurance
+903,Bad record
+904,Expired license
+905,No insurance
+906,Criminal record
+907,Caused the company damage
+908,Caused the company damage
+909,No license
+910,Criminal record
+911,No insurance
+912,No license
+913,Criminal record
+914,Couldn't pay
+915,No license
+916,No insurance
+917,Couldn't pay
+918,Criminal record
+919,Caused the company damage
+920,Expired license
+921,Couldn't pay
+922,Wanted by the police
+923,No license
+924,No insurance
+925,Bad record
+926,Expired license
+927,Wanted by the police
+928,Caused the company damage
+929,Criminal record
+930,Couldn't pay
+931,Couldn't pay
+932,Criminal record
+933,Expired license
+934,No insurance
+935,Couldn't pay
+936,No insurance
+937,No license
+938,Expired license
+939,No license
+940,Criminal record
+941,Wanted by the police
+942,Bad record
+943,Criminal record
+944,Couldn't pay
+945,No license
+946,Caused the company damage
+947,Bad record
+948,Caused the company damage
+949,Bad record
+950,Expired license
+951,Bad record
+952,Caused the company damage
+953,Bad record
+954,Criminal record
+955,Couldn't pay
+956,No insurance
+957,No insurance
+958,Bad record
+959,Expired license
+960,Caused the company damage
+961,Caused the company damage
+962,Bad record
+963,Criminal record
+964,No insurance
+965,Caused the company damage
+966,Criminal record
+967,Caused the company damage
+968,Caused the company damage
+969,Caused the company damage
+970,Bad record
+971,Caused the company damage
+972,Criminal record
+973,Wanted by the police
+974,No insurance
+975,Couldn't pay
+976,Criminal record
+977,Caused the company damage
+978,Wanted by the police
+979,No license
+980,Wanted by the police
+981,Expired license
+982,No license
+983,Expired license
+984,No license
+985,Wanted by the police
+986,Wanted by the police
+987,Criminal record
+988,Couldn't pay
+989,Couldn't pay
+990,Bad record
+991,No license
+992,Caused the company damage
+993,Expired license
+994,No license
+995,No insurance
+996,Caused the company damage
+997,Wanted by the police
+998,Expired license
+999,Criminal record
+1000,Criminal record
